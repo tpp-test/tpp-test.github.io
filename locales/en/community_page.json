@@ -1,0 +1,28 @@
+{
+  "previous_page_title": "< Main",
+  "heading": "Community\nof the Ivano-Frankivsk\nChamber of Commerce and Industry",
+  "industries": {
+    "construction_building_materials": "CONSTRUCTION, BUILDING MATERIALS",
+    "metal_structures_metal_products": "METAL STRUCTURES, METAL PRODUCTS",
+    "wood_processing_furniture": "WOOD PROCESSING INDUSTRY, FURNITURE MANUFACTURING",
+    "chemical_industry": "CHEMICAL INDUSTRY",
+    "rubber_plastic_glass_products": "MANUFACTURE OF RUBBER, PLASTIC AND GLASS PRODUCTS",
+    "oil_gas_fuel_energy": "OIL AND GAS INDUSTRY, FUEL AND ENERGY",
+    "mechanical_engineering": "MECHANICAL ENGINEERING AND INSTRUMENT MAKING",
+    "agriculture": "AGRICULTURE",
+    "food_industry": "FOOD INDUSTRY",
+    "hotels_restaurants": "HOTELS, RESTAURANTS",
+    "light_industry": "LIGHT INDUSTRY",
+    "pulp_paper_publishing": "PULP AND PAPER INDUSTRY; PUBLISHING",
+    "transport": "TRANSPORT",
+    "banking_financial_legal_consulting_insurance": "Banking, financial, legal, consulting services, insurance",
+    "advertising_information_services": "ADVERTISING AND INFORMATION SERVICES",
+    "education": "EDUCATION",
+    "recreation_entertainment_culture_sports": "ACTIVITIES IN THE FIELD OF RECREATION AND ENTERTAINMENT, CULTURE AND SPORTS",
+    "medicine": "MEDICINE",
+    "tourism": "TOURISM",
+    "trade": "TRADE",
+    "services": "SERVICES",
+    "other": "OTHER"
+  }
+}

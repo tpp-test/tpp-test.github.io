@@ -1,0 +1,24 @@
+{
+  "subjects_of_request": {
+    "label": "Тема звернення",
+    "placeholder": "Виберіть тему звернення",
+    "first_subject": "Стати членом ІФ ТПП",
+    "second_subject": "Відвідати заходи в Україні",
+    "third_subject": "Відвідати міжнародні заходи",
+    "fourth_subject": "Шукаю підтримку свого бізнес-проекту",
+    "fifth_subject": "Скористатись послугами ІФ ТПП",
+    "sixth_subject": "Готовий інвестувати, в пошуках бізнес-проекту",
+    "seventh_subject": "Інше"
+  },
+  "types_of_request": {
+    "label": "Тип звернення",
+    "placeholder": "Виберіть тип звернення",
+    "first_type": "Експертиза",
+    "second_type": "Сертифікати",
+    "third_type": "Форс-мажор",
+    "fourth_type": "Штрих-коди",
+    "fifth_type": "Торгова марка",
+    "sixth_type": "Питання зовнішньоекономічної діяльності",
+    "seventh_type": "Інше"
+  }
+}

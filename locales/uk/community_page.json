@@ -1,0 +1,28 @@
+{
+  "previous_page_title": "< Головна",
+  "heading": "Члени\nІвано-Франківської\nторгово-промислової палати",
+  "industries": {
+    "construction_building_materials": "БУДІВНИЦТВО, БУДМАТЕРІАЛИ",
+    "metal_structures_metal_products": "МЕТАЛОКОНСТРУКЦІЇ, МЕТАЛОВИРОБИ",
+    "wood_processing_furniture": "ДЕРЕВООБРОБНА ПРОМИСЛОВІСТЬ, ВИРОБНИЦТВО МЕБЛІВ",
+    "chemical_industry": "ХІМІЧНА ПРОМИСЛОВІСТЬ",
+    "rubber_plastic_glass_products": "ВИРОБНИЦТВО ГУМОВИХ ТА ПЛАСТМАСОВИХ ВИРОБІВ, ВИРОБІВ ЗІ СКЛА",
+    "oil_gas_fuel_energy": "НАФТОГАЗОВА ПРОМИСЛОВІСТЬ, ПАЛИВО та ЕНЕРГЕТИКА",
+    "mechanical_engineering": "МАШИНОБУДУВАННЯ та ПРИЛАДОБУДУВАННЯ",
+    "agriculture": "СІЛЬСЬКЕ ГОСПОДАРСТВО",
+    "food_industry": "ХАРЧОВА ПРОМИСЛОВІСТЬ",
+    "hotels_restaurants": "ГОТЕЛІ, РЕСТОРАНИ",
+    "light_industry": "ЛЕГКА ПРОМИСЛОВІСТЬ",
+    "pulp_paper_publishing": "ЦЕЛЮЛОЗНО-ПЕРЕРОВА ПРОМИСЛОВІСТЬ; ВИДАВНИЧА СПРАВА",
+    "transport": "ТРАНСПОРТ",
+    "banking_financial_legal_consulting_insurance": "Банківські, фінансові, юридичні, консалтингові послуги, страхування",
+    "advertising_information_services": "РЕКЛАМНІ ТА ІНФОРМАЦІЙНІ ПОСЛУГИ",
+    "education": "ОСВІТА",
+    "recreation_entertainment_culture_sports": "ДІЯЛЬНІСТЬ У СФЕРІ ВІДПОЧИНКУ І РОЗВАГ, КУЛЬТУРИ ТА СПОРТУ",
+    "medicine": "МЕДИЦИНА",
+    "tourism": "ТУРИЗМ",
+    "trade": "ТОРГІВЛЯ",
+    "services": "ПОСЛУГИ",
+    "other": "ІНШЕ"
+  }
+}

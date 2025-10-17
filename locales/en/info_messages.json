@@ -1,0 +1,11 @@
+{
+  "hotline_form": "Thank you for your request!\nOur specialist will contact you shortly.",
+  "article_comment_form": "Thank you for your comment on the article!",
+  "call_order_form": "Thank you for your request!\nOur specialist will contact you shortly.",
+  "contact_form": "Thank you for your request!\nOur specialist will contact you shortly.",
+  "successful_registration": "Congratulations! You have successfully registered!",
+  "company_profile_form_success": "The company profile has been successfully updated!",
+  "company_profile_form_failure": "Error updating the company profile!",
+  "proposal_form": "Thank you for your proposal!",
+  "initiative_form": "Thank you for your initiative!"
+}

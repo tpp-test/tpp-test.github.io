@@ -1,0 +1,21 @@
+{
+  "previous_page_title": "< Головна",
+  "heading": {
+    "customs_and_brokerage_services": "Митно-брокерські послуги",
+    "expertise": "Експертиза",
+    "international_cooperation": "Міжнародна співпраця",
+    "force_majeure_certification": "Засвідчення форс-мажорів",
+    "certificates_barcodes_ATA_carnets": "Сертифікати, Штрих-коди, Карнети АТА",
+    "arbitration_court": "Третейський суд",
+    "conference_services": "Конференц-послуги"
+  },
+  "description": "Послуги",
+  "arbitration_court_documents": {
+    "first_document": "Положення",
+    "second_document": "Регламент",
+    "third_document": "Список третейських суддів",
+    "fourth_document": "Положення про третейський збір"
+  },
+  "call_order_form_heading": "Замовити дзвінок",
+  "call_order_form_description": "Ви можете звернутись до нас, якщо у Вас виникли питання."
+}

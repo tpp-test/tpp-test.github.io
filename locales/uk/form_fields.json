@@ -1,0 +1,183 @@
+{
+  "hotline_form": {
+    "heading": "Замовити дзвінок",
+    "description": "На жаль, зараз у нас неробочий час.\nМи можемо зателефонувати тоді,\nколи Вам буде зручно:",
+    "fields": {
+      "date_and_time_of_call_order": {
+        "label": "Дата і час замовлення дзвінка",
+        "time_caption": "Час",
+        "warning": {
+          "eastern_european_standard_time": "Східноєвропейський стандартний час (UTC+2)",
+          "eastern_european_summer_time": "Східноєвропейський літній час (UTC+3)"
+        }
+      },
+      "phone": {
+        "label": "Телефон",
+        "placeholder": "Введіть номер телефону"
+      }
+    }
+  },
+  "contact_form": {
+    "full_name": {
+      "label": "Ваше ім'я",
+      "placeholder": "Введіть Ваше ім'я"
+    },
+    "phone": {
+      "label": "Телефон",
+      "placeholder": "Введіть Ваш номер телефону"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Введіть Ваш email"
+    }
+  },
+  "article_comment_form": {
+    "full_name": {
+      "label": "Ваше ім'я",
+      "placeholder": "Введіть Ваше ім'я"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Введіть Ваш email"
+    },
+    "comment": {
+      "label": "Коментар",
+      "placeholder": "Напишіть коментар"
+    }
+  },
+  "call_order_form": {
+    "full_name": {
+      "label": "Ваше ім'я",
+      "placeholder": "Введіть Ваше ім'я"
+    },
+    "phone": {
+      "label": "Телефон",
+      "placeholder": "Введіть Ваш номер телефону"
+    }
+  },
+  "registration": {
+    "heading": "Реєстрація",
+    "fields": {
+      "company_name": {
+        "label": "Назва компанії",
+        "placeholder": "Введіть назву компанії"
+      },
+      "edrpou_code": {
+        "label": "Код ЄДРПОУ",
+        "placeholder": "Введіть код ЄДРПОУ"
+      },
+      "kind_of_activity": {
+        "label": "Вид діяльності",
+        "placeholder": "Введіть вид діяльності"
+      },
+      "legal_address": {
+        "label": "Юридична адреса",
+        "placeholder": "Введіть юридичну адресу"
+      },
+      "physical_address": {
+        "label": "Фізична адреса",
+        "placeholder": "Введіть фізичну адресу"
+      },
+      "phone": {
+        "label": "Телефон",
+        "placeholder": "Введіть номер телефону"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Введіть email"
+      },
+      "website": {
+        "label": "Сайт",
+        "placeholder": "Введіть посилання на сайт"
+      },
+      "new_password": {
+        "label": "Пароль",
+        "placeholder": "Введіть пароль"
+      },
+      "new_password_confirmation": {
+        "label": "Повторіть пароль",
+        "placeholder": "Введіть пароль ще раз"
+      }
+    }
+  },
+  "log_in": {
+    "heading": "Увійти\nв особистий кабінет",
+    "description": "Щоб увійти в систему, потрібно бути членом ТПП.\nЗа детальнішою інформацією зверніться до наших спеціалістів.",
+    "fields": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Введіть email"
+      },
+      "current_password": {
+        "label": "Пароль",
+        "placeholder": "Введіть пароль"
+      }
+    }
+  },
+  "company_profile_form": {
+    "company_name": {
+      "label": "Назва компанії",
+      "placeholder": "Введіть назву компанії"
+    },
+    "edrpou_code": {
+      "label": "Код ЄДРПОУ",
+      "placeholder": "Введіть код ЄДРПОУ"
+    },
+    "kind_of_activity": {
+      "label": "Вид діяльності",
+      "placeholder": "Введіть вид діяльності"
+    },
+    "legal_address": {
+      "label": "Юридична адреса",
+      "placeholder": "Введіть юридичну адресу"
+    },
+    "physical_address": {
+      "label": "Фізична адреса",
+      "placeholder": "Введіть фізичну адресу"
+    },
+    "phone": {
+      "label": "Телефон",
+      "placeholder": "Введіть номер телефону"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Введіть email"
+    },
+    "website": {
+      "label": "Сайт",
+      "placeholder": "Введіть посилання на сайт"
+    }
+  },
+  "proposal_form": {
+    "phone": {
+      "label": "Телефон",
+      "placeholder": "Введіть Ваш номер телефону"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Введіть Ваш email"
+    },
+    "proposal_content": {
+      "label": "Пропозиція",
+      "placeholder": "Напишіть пропозицію"
+    }
+  },
+  "initiative_form": {
+    "initiative_title": {
+      "label": "Назва ініціативи",
+      "placeholder": "Введіть назву ініціативи"
+    },
+    "phone": {
+      "label": "Телефон",
+      "placeholder": "Введіть Ваш номер телефону"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Введіть Ваш email"
+    },
+    "initiative_content": {
+      "label": "Ініціатива",
+      "placeholder": "Напишіть ініціативу"
+    }
+  }
+}

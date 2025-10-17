@@ -1,0 +1,183 @@
+{
+  "hotline_form": {
+    "heading": "Order a call",
+    "description": "Unfortunately, we are currently out of working hours.\nWe can call when it's convenient for you:",
+    "fields": {
+      "date_and_time_of_call_order": {
+        "label": "Date and time of call order",
+        "time_caption": "Time",
+        "warning": {
+          "eastern_european_standard_time": "Eastern European Standard Time (UTC+2)",
+          "eastern_european_summer_time": "Eastern European Summer Time (UTC+3)"
+        }
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "Enter phone number"
+      }
+    }
+  },
+  "contact_form": {
+    "full_name": {
+      "label": "Your name",
+      "placeholder": "Enter your name"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Enter your phone number"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    }
+  },
+  "article_comment_form": {
+    "full_name": {
+      "label": "Your name",
+      "placeholder": "Enter your name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "comment": {
+      "label": "Comment",
+      "placeholder": "Write the comment"
+    }
+  },
+  "call_order_form": {
+    "full_name": {
+      "label": "Your name",
+      "placeholder": "Enter your name"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Enter your phone number"
+    }
+  },
+  "registration": {
+    "heading": "Registration",
+    "fields": {
+      "company_name": {
+        "label": "Company name",
+        "placeholder": "Enter company name"
+      },
+      "edrpou_code": {
+        "label": "EDRPOU code",
+        "placeholder": "Enter EDRPOU code"
+      },
+      "kind_of_activity": {
+        "label": "Kind of activity",
+        "placeholder": "Enter kind of activity"
+      },
+      "legal_address": {
+        "label": "Legal address",
+        "placeholder": "Enter legal address"
+      },
+      "physical_address": {
+        "label": "Physical address",
+        "placeholder": "Enter physical address"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "Enter phone number"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter email"
+      },
+      "website": {
+        "label": "Website",
+        "placeholder": "Enter website link"
+      },
+      "new_password": {
+        "label": "Password",
+        "placeholder": "Enter password"
+      },
+      "new_password_confirmation": {
+        "label": "Repeat password",
+        "placeholder": "Enter password again"
+      }
+    }
+  },
+  "log_in": {
+    "heading": "Log in\nto personal account",
+    "description": "To log in, you must be a member of the CCI.\nFor more detailed information, contact our specialists.",
+    "fields": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter email"
+      },
+      "current_password": {
+        "label": "Password",
+        "placeholder": "Enter password"
+      }
+    }
+  },
+  "company_profile_form": {
+    "company_name": {
+      "label": "Company name",
+      "placeholder": "Enter company name"
+    },
+    "edrpou_code": {
+      "label": "EDRPOU code",
+      "placeholder": "Enter EDRPOU code"
+    },
+    "kind_of_activity": {
+      "label": "Kind of activity",
+      "placeholder": "Enter kind of activity"
+    },
+    "legal_address": {
+      "label": "Legal address",
+      "placeholder": "Enter legal address"
+    },
+    "physical_address": {
+      "label": "Physical address",
+      "placeholder": "Enter physical address"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Enter phone number"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter email"
+    },
+    "website": {
+      "label": "Website",
+      "placeholder": "Enter website link"
+    }
+  },
+  "proposal_form": {
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Enter your phone number"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "proposal_content": {
+      "label": "Proposal",
+      "placeholder": "Write the proposal"
+    }
+  },
+  "initiative_form": {
+    "initiative_title": {
+      "label": "Initiative title",
+      "placeholder": "Enter initiative title"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Enter your phone number"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "initiative_content": {
+      "label": "Initiative",
+      "placeholder": "Write the initiative"
+    }
+  }
+}

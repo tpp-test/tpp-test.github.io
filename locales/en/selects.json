@@ -1,0 +1,24 @@
+{
+  "subjects_of_request": {
+    "label": "Subject of request",
+    "placeholder": "Select the subject of request",
+    "first_subject": "Become a member of IF CCI",
+    "second_subject": "Attend events in Ukraine",
+    "third_subject": "Attend international events",
+    "fourth_subject": "I'm looking for support for my business project",
+    "fifth_subject": "Use the services of the IF CCI",
+    "sixth_subject": "Ready to invest, looking for business project",
+    "seventh_subject": "Other"
+  },
+  "types_of_request": {
+    "label": "Type of request",
+    "placeholder": "Select the type of request",
+    "first_type": "Expertise",
+    "second_type": "Certificates",
+    "third_type": "Force majeure",
+    "fourth_type": "Barcodes",
+    "fifth_type": "Trademark",
+    "sixth_type": "Issues of foreign economic activity",
+    "seventh_type": "Other"
+  }
+}

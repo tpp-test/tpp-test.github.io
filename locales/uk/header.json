@@ -1,0 +1,33 @@
+{
+  "main": "ГОЛОВНА",
+  "news_events": "НОВИНИ. ПОДІЇ",
+  "services": "ПОСЛУГИ",
+  "activities": "ЗАХОДИ",
+  "about_us": "ПРО НАС",
+  "forms": "ФОРМИ",
+  "personal_account": {
+    "main": "ГОЛОВНА",
+    "main_dropdown_list": {
+      "my_account": "Мій кабінет",
+      "news_events": "Новини. Події",
+      "services": "Послуги",
+      "activities": "Заходи",
+      "about_us": "Про нас",
+      "forms": "Форми"
+    },
+    "documents": "ДОКУМЕНТИ",
+    "documents_dropdown_list": {
+      "CCI_documents": "Документи ТПП",
+      "my_documents": "Мої документи"
+    },
+    "order_a_service": "ЗАМОВИТИ ПОСЛУГУ",
+    "proposals_for_CCI": "ПРОПОЗИЦІЇ ДЛЯ ТПП",
+    "proposals_for_CCI_dropdown_list": {
+      "make_a_proposal": "Внести пропозицію",
+      "propose_an_initiative": "Запропонувати ініціативу"
+    }
+  },
+  "search": "Що ви шукаєте?",
+  "log_in": "ВХІД",
+  "log_out": "ВИХІД"
+}

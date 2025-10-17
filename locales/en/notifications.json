@@ -1,0 +1,13 @@
+{
+  "search_results_list_loading": "Loading search results list...",
+  "search_query_is_missing": "Search query is missing!",
+  "service_list_loading": "Loading service list...",
+  "event_list_loading": "Loading event list...",
+  "event_data_loading": "Loading event data...",
+  "company_list_loading": "Loading company list...",
+  "manager_list_loading": "Loading manager list...",
+  "article_list_loading": "Loading article list...",
+  "article_data_loading": "Loading article data...",
+  "VIP_company_list_loading": "Loading VIP company list...",
+  "company_profile_data_loading": "Loading company profile data..."
+}

@@ -1,0 +1,10 @@
+{
+  "not_found": {
+    "primary_message": "Unfortunately,\nthe page you requested\nwas not found",
+    "secondary_message": "It may have been removed or\nyou followed an outdated link."
+  },
+  "unexpected_error": {
+    "primary_message": "Oops:(",
+    "secondary_message": "Sorry, an unexpected error has occurred."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "search_results_list_loading": "Завантаження списку результатів пошуку...",
+  "search_query_is_missing": "Пошуковий запит відсутній!",
+  "service_list_loading": "Завантаження списку сервісів...",
+  "event_list_loading": "Завантаження списку заходів...",
+  "event_data_loading": "Завантаження даних заходу...",
+  "company_list_loading": "Завантаження списку компаній...",
+  "manager_list_loading": "Завантаження списку керівників...",
+  "article_list_loading": "Завантаження списку статей...",
+  "article_data_loading": "Завантаження даних статті...",
+  "VIP_company_list_loading": "Завантаження списку VIP-компаній...",
+  "company_profile_data_loading": "Завантаження даних профайлу компанії..."
+}

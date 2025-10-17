@@ -1,0 +1,33 @@
+{
+  "main": "MAIN",
+  "news_events": "NEWS. EVENTS",
+  "services": "SERVICES",
+  "activities": "ACTIVITIES",
+  "about_us": "ABOUT US",
+  "forms": "FORMS",
+  "personal_account": {
+    "main": "MAIN",
+    "main_dropdown_list": {
+      "my_account": "My account",
+      "news_events": "News. Events",
+      "services": "Services",
+      "activities": "Activities",
+      "about_us": "About us",
+      "forms": "Forms"
+    },
+    "documents": "DOCUMENTS",
+    "documents_dropdown_list": {
+      "CCI_documents": "CCI documents",
+      "my_documents": "My documents"
+    },
+    "order_a_service": "ORDER A SERVICE",
+    "proposals_for_CCI": "PROPOSALS FOR CCI",
+    "proposals_for_CCI_dropdown_list": {
+      "make_a_proposal": "Make a proposal",
+      "propose_an_initiative": "Propose an initiative"
+    }
+  },
+  "search": "What are you looking for?",
+  "log_in": "LOG IN",
+  "log_out": "LOG OUT"
+}

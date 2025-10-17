@@ -1,0 +1,21 @@
+{
+  "previous_page_title": "< Main",
+  "heading": {
+    "customs_and_brokerage_services": "Customs and brokerage services",
+    "expertise": "Expertise",
+    "international_cooperation": "International cooperation",
+    "force_majeure_certification": "Force majeure certification",
+    "certificates_barcodes_ATA_carnets": "Certificates, Barcodes, ATA carnets",
+    "arbitration_court": "Arbitration court",
+    "conference_services": "Conference services"
+  },
+  "description": "Services",
+  "arbitration_court_documents": {
+    "first_document": "Provision",
+    "second_document": "Regulations",
+    "third_document": "List of arbitration judges",
+    "fourth_document": "Provision on the arbitration fee"
+  },
+  "call_order_form_heading": "Order a call",
+  "call_order_form_description": "You can contact us if you have any questions."
+}

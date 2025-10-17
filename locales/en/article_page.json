@@ -1,0 +1,13 @@
+{
+  "previous_page_title": {
+    "search_results": "< Search results",
+    "news_events": "< News. Events"
+  },
+  "info": {
+    "created_at": "Publication date",
+    "author": "Author",
+    "views": "Views"
+  },
+  "article_comment_form_heading": "Comment on the article",
+  "article_comment_form_description": "The author will find out your opinion"
+}

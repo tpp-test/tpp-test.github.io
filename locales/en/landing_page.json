@@ -1,0 +1,69 @@
+{
+  "main": {
+    "heading_top": "The Ivano-Frankivsk\nChamber of Commerce and Industry",
+    "description_top": "Successful solutions, new opportunities",
+    "slides": {
+      "first_slide": {
+        "heading_bottom": "We present services",
+        "description_bottom": "We provide qualified business service support"
+      },
+      "second_slide": {
+        "heading_bottom": "We deepen the cooperation",
+        "description_bottom": "We develop partner programs, organize communications"
+      },
+      "third_slide": {
+        "heading_bottom": "We create opportunities",
+        "description_bottom": "We find new markets, reveal investment potential"
+      },
+      "fourth_slide": {
+        "heading_bottom": "We change approaches",
+        "description_bottom": "We organize training, improve business skills"
+      }
+    }
+  },
+  "services": {
+    "heading": "Services",
+    "service_items": {
+      "first_service": "Customs and brokerage services",
+      "second_service": "Expertise",
+      "third_service": "International cooperation",
+      "fourth_service": "Force majeure certification",
+      "fifth_service": "Certificates, Barcodes, ATA carnets",
+      "sixth_service": "Arbitration court",
+      "seventh_service": "Conference services"
+    }
+  },
+  "activities": {
+    "heading": "Calendar of events",
+    "description": "Use our opportunities: get acquainted with new technologies, open new sales markets, find new business ideas!"
+  },
+  "community": {
+    "heading": "Community of the Ivano-Frankivsk Chamber of Commerce and Industry",
+    "description": "We invite you to join our organization",
+    "community_indicators": {
+      "first_indicator": "legal entities",
+      "second_indicator": "individual entrepreneurs",
+      "third_indicator": "including exporters"
+    }
+  },
+  "management": {
+    "heading": "Management of IF CCI",
+    "description": "People who will contribute to the success of your business. We will be glad to meet you!"
+  },
+  "news_events": {
+    "heading": "News. Events",
+    "description": "Be modern, follow trends, read useful articles from our experts!",
+    "info": {
+      "views": "Views",
+      "created_at": "Publication date"
+    }
+  },
+  "our_partners": {
+    "heading": "Leading enterprises of the Ivano-Frankivsk oblast",
+    "manager": "Manager"
+  },
+  "forms": {
+    "heading": "Write to us",
+    "description": "The professional team of IF CCI is ready to help you develop your business!"
+  }
+}

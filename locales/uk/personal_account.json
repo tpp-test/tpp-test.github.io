@@ -1,0 +1,22 @@
+{
+  "company_profile": {
+    "heading": "Профайл компанії"
+  },
+  "cci_documents": {
+    "heading": "Документи ТПП"
+  },
+  "client_documents": {
+    "heading": "Мої документи"
+  },
+  "service_order": {
+    "heading": "Замовити дзвінок",
+    "description": "Ви можете звернутись до нас, якщо у Вас виникли питання."
+  },
+  "proposal": {
+    "heading": "Внести пропозицію"
+  },
+  "initiative": {
+    "heading": "Запропонувати ініціативу",
+    "attach_files": "Прикріпити файли"
+  }
+}

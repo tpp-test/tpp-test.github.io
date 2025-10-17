@@ -1,0 +1,13 @@
+{
+  "previous_page_title": {
+    "search_results": "< Результати пошуку",
+    "news_events": "< Новини. Події"
+  },
+  "info": {
+    "created_at": "Дата публікації",
+    "author": "Автор",
+    "views": "Перегляди"
+  },
+  "article_comment_form_heading": "Прокоментуйте статтю",
+  "article_comment_form_description": "Автор дізнається Вашу думку"
+}

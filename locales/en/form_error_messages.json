@@ -1,0 +1,175 @@
+{
+  "hotline_form": {
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    }
+  },
+  "contact_form": {
+    "subject_of_request": {
+      "non_nullable": "Select the subject of request"
+    },
+    "full_name": {
+      "required": "Enter name",
+      "matches": "Invalid name",
+      "min": "Name is too short"
+    },
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    }
+  },
+  "article_comment_form": {
+    "full_name": {
+      "required": "Enter name",
+      "matches": "Invalid name",
+      "min": "Name is too short"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "comment": {
+      "required": "Write the comment"
+    }
+  },
+  "call_order_form": {
+    "full_name": {
+      "required": "Enter name",
+      "matches": "Invalid name",
+      "min": "Name is too short"
+    },
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "type_of_request": {
+      "non_nullable": "Select the type of request"
+    }
+  },
+  "registration": {
+    "company_name": {
+      "required": "Enter company name",
+      "matches": "Invalid company name"
+    },
+    "edrpou_code": {
+      "required": "Enter EDRPOU code",
+      "matches": "Invalid EDRPOU code",
+      "length": "EDRPOU code is too short"
+    },
+    "kind_of_activity": {
+      "required": "Enter kind of activity",
+      "matches": "Invalid characters"
+    },
+    "legal_address": {
+      "required": "Enter legal address",
+      "matches": "Invalid legal address"
+    },
+    "physical_address": {
+      "required": "Enter physical address",
+      "matches": "Invalid physical address"
+    },
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "website": {
+      "required": "Enter website link",
+      "url": "Invalid website link"
+    },
+    "new_password": {
+      "required": "Enter password",
+      "min": "Password cannot be shorter than 8 characters",
+      "max": ":Password cannot be longer than 25 characters"
+    },
+    "new_password_confirmation": {
+      "required": "Enter password again",
+      "oneOf": "Passwords don't match"
+    }
+  },
+  "log_in": {
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "current_password": {
+      "required": "Enter password",
+      "min": "Password cannot be shorter than 8 characters",
+      "max": ":Password cannot be longer than 25 characters"
+    }
+  },
+  "company_profile_form": {
+    "company_name": {
+      "required": "Enter company name",
+      "matches": "Invalid company name"
+    },
+    "edrpou_code": {
+      "required": "Enter EDRPOU code",
+      "matches": "Invalid EDRPOU code",
+      "length": "EDRPOU code is too short"
+    },
+    "kind_of_activity": {
+      "required": "Enter kind of activity",
+      "matches": "Invalid characters"
+    },
+    "legal_address": {
+      "required": "Enter legal address",
+      "matches": "Invalid legal address"
+    },
+    "physical_address": {
+      "required": "Enter physical address",
+      "matches": "Invalid physical address"
+    },
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "website": {
+      "required": "Enter website link",
+      "url": "Invalid website link"
+    }
+  },
+  "proposal_form": {
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "proposal_content": {
+      "required": "Write the proposal"
+    }
+  },
+  "initiative_form": {
+    "initiative_title": {
+      "required": "Enter initiative title",
+      "matches": "Invalid initiative title",
+      "min": "Initiative title is too short"
+    },
+    "phone": {
+      "min": "Enter phone number",
+      "length": "Invalid phone number"
+    },
+    "email": {
+      "required": "Enter email",
+      "email": "Invalid email"
+    },
+    "initiative_content": {
+      "required": "Write the initiative"
+    }
+  }
+}

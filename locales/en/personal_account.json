@@ -1,0 +1,22 @@
+{
+  "company_profile": {
+    "heading": "Company profile"
+  },
+  "cci_documents": {
+    "heading": "CCI documents"
+  },
+  "client_documents": {
+    "heading": "My documents"
+  },
+  "service_order": {
+    "heading": "Order a call",
+    "description": "You can contact us if you have any questions."
+  },
+  "proposal": {
+    "heading": "Make a proposal"
+  },
+  "initiative": {
+    "heading": "Propose an initiative",
+    "attach_files": "Attach files"
+  }
+}
